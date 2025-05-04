@@ -50,7 +50,7 @@ Saya memiliki pengalaman dalam pemrograman web, khususnya di bidang WebGIS, sert
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rezachairul/rezachairul/output/pacman-contribution-graph.svg">
 </picture>
 
-<img src="https://raw.githubusercontent.com/rezachairul/rezachairul/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/rezachairul/rezachairul/output/snake.svg" alt="Snake animation" /> -->
 
 
 ---
