@@ -74,5 +74,4 @@ Lagi dengerin musik sambil ngoding 🎧
 ---
 <p align="center">
   &copy; 2025 <a href="https://github.com/rezachairul" target="_blank">rezachairul</a>. All rights reserved.<br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" alt="GitHub Logo"/>
 </p>
