@@ -72,6 +72,15 @@ Lagi dengerin musik sambil ngoding 🎧
 </p>
 
 ---
+
+#### 💬 *Quote of the Day*
+> **"Ngoding itu bukan cuma soal nyusun baris kode buat nyuruh komputer kerja,  
+> tapi juga soal melatih kesabaran, membangun konsistensi,  
+> dan menempa ketekunan yang pelan-pelan bakal ngasah karakter kita."**  
+> — *Reza Chairul*
+
+
+---
 <p align="center">
   &copy; 2025 <a href="https://github.com/rezachairul" target="_blank">rezachairul</a>. All rights reserved.<br>
 </p>
