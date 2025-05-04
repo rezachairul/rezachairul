@@ -64,14 +64,6 @@ Lagi dengerin musik sambil ngoding 🎧
 **ONE OK ROCK — “Tropical Therapy”** 🌴🎸
 
 ---
-##### 🌐 Connect With Me
-<p align="center">
-  <a href="https://github.com/rezachairul/rezachairul" title="GitHub"><img src="https://skillicons.dev/icons?i=github" style="margin: 6px;" /></a>
-  <a href="https://www.linkedin.com/in/reza-chairul6/" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" style="margin: 6px;" /></a>
-  <a href="https://www.instagram.com/rezachairul6/" title="Instagram"><img src="https://skillicons.dev/icons?i=instagram" style="margin: 6px;" /></a>
-</p>
-
----
 
 #### 💬 *Quote of the Day*
 > **"Ngoding itu bukan cuma soal nyusun baris kode buat nyuruh komputer kerja,  
@@ -79,6 +71,14 @@ Lagi dengerin musik sambil ngoding 🎧
 > dan menempa ketekunan yang pelan-pelan bakal ngasah karakter kita."**  
 > — *Reza Chairul*
 
+---
+
+##### 🌐 Connect With Me
+<p align="center">
+  <a href="https://github.com/rezachairul/rezachairul" title="GitHub"><img src="https://skillicons.dev/icons?i=github" style="margin: 6px;" /></a>
+  <a href="https://www.linkedin.com/in/reza-chairul6/" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" style="margin: 6px;" /></a>
+  <a href="https://www.instagram.com/rezachairul6/" title="Instagram"><img src="https://skillicons.dev/icons?i=instagram" style="margin: 6px;" /></a>
+</p>
 
 ---
 <p align="center">
