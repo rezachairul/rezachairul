@@ -58,13 +58,20 @@ Saya memiliki pengalaman dalam pemrograman web, khususnya di bidang WebGIS, sert
 
 ---
 
-##### 🌐 Connect With Me
-![https://github.com/rezachairul/rezachairul](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![https://www.linkedin.com/in/reza-chairul6/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-
-
 ##### 🎵 Now Playing on Spotify
 Lagi dengerin musik sambil ngoding 🎧
 🎶 Favorite Song Right Now:
 **ONE OK ROCK — “Tropical Therapy”** 🌴🎸
 
---- 
+---
+##### 🌐 Connect With Me
+<p align="center">
+  <a href="https://github.com/rezachairul/rezachairul" title="GitHub"><img src="https://skillicons.dev/icons?i=github" style="margin: 6px;" /></a>
+  <a href="https://www.linkedin.com/in/reza-chairul6/" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" style="margin: 6px;" /></a>
+  <a href="https://www.instagram.com/rezachairul6/" title="Instagram"><img src="https://skillicons.dev/icons?i=instagram" style="margin: 6px;" /></a>
+</p>
+
+---
+<footer align="center" style="color: black;">
+  &copy; 2025 <a href="https://github.com/rezachairul" target="_blank"style="color: black; text-decoration: none;"><img src="https://github.com/favicon.ico" alt="GitHub Logo" style="width: 16px; height: 16px; vertical-align: middle;"> rezachairul</a>. All rights reserved.
+</footer>
