@@ -72,6 +72,12 @@ Lagi dengerin musik sambil ngoding 🎧
 </p>
 
 ---
-<footer align="center" style="color: black;">
-  &copy; 2025 <a href="https://github.com/rezachairul" target="_blank"style="color: black; text-decoration: none;"><img src="https://github.com/favicon.ico" alt="GitHub Logo" style="width: 16px; height: 16px; vertical-align: middle;"> rezachairul</a>. All rights reserved.
+<footer style="text-align: center; color: white; background-color: #0d1117; padding: 1rem;">
+  &copy; 2025 
+  <a href="https://github.com/rezachairul" target="_blank" style="color: white; text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+         alt="GitHub Logo" 
+         style="width: 16px; height: 16px; vertical-align: middle; filter: invert(1);"> 
+    rezachairul
+  </a>. All rights reserved.
 </footer>
