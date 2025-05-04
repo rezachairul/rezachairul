@@ -13,30 +13,31 @@
 ---
 
 ##### Skills
-###### Programming
+Saya memiliki pengalaman dalam pemrograman web, khususnya di bidang WebGIS, serta keterampilan dalam desain visual dan pengolahan media. Berikut adalah beberapa tools dan teknologi yang saya gunakan:
+
+###### 🧠 Programming & Tools
 <p align="center">
-  <a href="https://code.visualstudio.com/" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" /></a>
-  <a href="https://git-scm.com/doc" title="Git"><img src="https://skillicons.dev/icons?i=git" /></a>
-  <a href="https://docs.github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img src="https://skillicons.dev/icons?i=html" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="https://skillicons.dev/icons?i=css" /></a>
-  <a href="https://www.php.net/docs.php" title="PHP"><img src="https://skillicons.dev/icons?i=php" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
-  <a href="https://reactjs.org/docs/getting-started.html" title="React"><img src="https://skillicons.dev/icons?i=react" /></a>
-  <a href="https://tailwindcss.com/docs" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
-  <a href="https://getbootstrap.com/docs/" title="Bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap" /></a>
-  <a href="https://www.python.org/doc/" title="Python"><img src="https://skillicons.dev/icons?i=py" /></a>
-  <a href="https://www.latex-project.org/help/documentation/" title="LaTeX"><img src="https://skillicons.dev/icons?i=latex" /></a>
-  <a href="https://www.postgresql.org/docs/" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" /></a>
+  <a href="https://code.visualstudio.com/" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" style="margin: 6px;" /></a>
+  <a href="https://git-scm.com/doc" title="Git"><img src="https://skillicons.dev/icons?i=git" style="margin: 6px;" /></a>
+  <a href="https://docs.github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github" style="margin: 6px;" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img src="https://skillicons.dev/icons?i=html" style="margin: 6px;" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="https://skillicons.dev/icons?i=css" style="margin: 6px;" /></a>
+  <a href="https://www.php.net/docs.php" title="PHP"><img src="https://skillicons.dev/icons?i=php" style="margin: 6px;" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" style="margin: 6px;" /></a>
+  <a href="https://reactjs.org/docs/getting-started.html" title="React"><img src="https://skillicons.dev/icons?i=react" style="margin: 6px;" /></a>
+  <a href="https://tailwindcss.com/docs" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind" style="margin: 6px;" /></a>
+  <a href="https://getbootstrap.com/docs/" title="Bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap" style="margin: 6px;" /></a>
+  <a href="https://www.python.org/doc/" title="Python"><img src="https://skillicons.dev/icons?i=py" style="margin: 6px;" /></a>
+  <a href="https://www.latex-project.org/help/documentation/" title="LaTeX"><img src="https://skillicons.dev/icons?i=latex" style="margin: 6px;" /></a>
+  <a href="https://www.postgresql.org/docs/" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" style="margin: 6px;" /></a>
 </p>
 
-
-###### Editor
+###### 🎨 Design & Media Editing
 <p align="center">
-  <a href="https://www.adobe.com/products/photoshop.html" title="Photoshop"><img src="https://skillicons.dev/icons?i=ps" /></a>
-  <a href="https://www.adobe.com/products/illustrator.html" title="Illustrator"><img src="https://skillicons.dev/icons?i=ai" /></a>
-  <a href="https://www.adobe.com/products/premiere.html" title="Premiere Pro"><img src="https://skillicons.dev/icons?i=pr" /></a>
-  <a href="https://www.figma.com/learn/" title="Figma"><img src="https://skillicons.dev/icons?i=figma" /></a>
+  <a href="https://www.adobe.com/products/photoshop.html" title="Photoshop"><img src="https://skillicons.dev/icons?i=ps" style="margin: 6px;" /></a>
+  <a href="https://www.adobe.com/products/illustrator.html" title="Illustrator"><img src="https://skillicons.dev/icons?i=ai" style="margin: 6px;" /></a>
+  <a href="https://www.adobe.com/products/premiere.html" title="Premiere Pro"><img src="https://skillicons.dev/icons?i=pr" style="margin: 6px;" /></a>
+  <a href="https://www.figma.com/learn/" title="Figma"><img src="https://skillicons.dev/icons?i=figma" style="margin: 6px;" /></a>
 </p>
 
 ---
