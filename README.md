@@ -42,7 +42,7 @@ Saya memiliki pengalaman dalam pemrograman web, khususnya di bidang WebGIS, sert
 
 ---
 
-###### 🎮 Play Game With Me
+##### 🎮 Play Game With Me
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rezachairul/rezachairul/output/pacman-contribution-graph-dark.svg">
