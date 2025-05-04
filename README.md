@@ -41,10 +41,20 @@ Saya memiliki pengalaman dalam pemrograman web, khususnya di bidang WebGIS, sert
 </p>
 
 ---
-##### My Github Stats
-[![Azer's GitHub stats](https://github-readme-stats.vercel.app/api?username=rezachairul&show_icons=true&theme=github_dark)](https://github.com/rezachairul/github-readme-stats)
+##### 📊 My GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezachairul&layout=compact&theme=github_dark)
+<table border="0">
+  <tr>
+    <td>
+      <a href="https://github.com/rezachairul/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=rezachairul&show_icons=true&theme=github_dark" />
+      </a>
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezachairul&layout=compact&theme=github_dark" />
+    </td>
+  </tr>
+</table>
 
 ---
 
