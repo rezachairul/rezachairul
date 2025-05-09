@@ -65,7 +65,9 @@ Saya memiliki pengalaman dalam pemrograman web, khususnya di bidang WebGIS, sert
       </a>
     </td>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezachairul&layout=compact&theme=github_dark" />
+      <a href="https://github.com/rezachairul">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezachairul&layout=compact&theme=github_dark" />
+      </a>
     </td>
   </tr>
 </table>
