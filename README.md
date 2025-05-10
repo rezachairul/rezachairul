@@ -2,11 +2,11 @@
 ### Hello, I'am Reza Chairul 👋
 
 ##### About Me
-🎓 Mahasiswa Teknik Informatika di [ITERA](https://www.itera.ac.id)  
-📍 Tinggal di Lampung, Indonesia  
-💻 Fokus: WebGIS, Laravel, React, PostgreSQL, Tailwind CSS  
-🗺️ Saat ini sedang eksplorasi visualisasi dan manajemen data geospasial  
-🎨 Hobi: Desain grafis, fotografi dan editing 
+🎓 Mahasiswa Teknik Informatika di [ITERA](https://www.itera.ac.id)
+📍 Tinggal di Lampung, Indonesia
+💻 Fokus: WebGIS, Laravel, React, PostgreSQL, Tailwind CSS
+🗺️ Saat ini sedang eksplorasi visualisasi dan manajemen data geospasial
+🎨 Hobi: Desain grafis, fotografi dan editing
 🚀 Suka memecahkan masalah & membangun solusi interaktif
 
 > Mari terhubung dan bangun sesuatu yang luar biasa bersama!
