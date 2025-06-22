@@ -95,6 +95,7 @@ Lagi dengerin musik sambil ngoding 🎧
   <a href="https://github.com/rezachairul/rezachairul" title="GitHub"><img src="https://skillicons.dev/icons?i=github" style="margin: 6px;" /></a>
   <a href="https://www.linkedin.com/in/reza-chairul6/" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" style="margin: 6px;" /></a>
   <a href="https://www.instagram.com/rezachairul6/" title="Instagram"><img src="https://skillicons.dev/icons?i=instagram" style="margin: 6px;" /></a>
+  <a href="https://cobradev.vercel.app/" title="CobraDev"><img src="https://skillicons.dev/icons?i=nextjs" style="margin: 6px;" /></a>
 </p>
 
 ---
