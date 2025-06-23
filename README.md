@@ -17,21 +17,49 @@ Saya memiliki pengalaman dalam pemrograman web, khususnya di bidang WebGIS, sert
 
 ###### 👨‍💻 Programming & Tools
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" style="margin: 6px;" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" style="margin: 6px;" /></a>
-  <a href="https://getbootstrap.com/docs/"><img src="https://skillicons.dev/icons?i=bootstrap" style="margin: 6px;" /></a>
-  <a href="https://tailwindcss.com/docs"><img src="https://skillicons.dev/icons?i=tailwind" style="margin: 6px;" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" style="margin: 6px;" /></a>
-  <a href="https://reactjs.org/docs/getting-started.html"><img src="https://skillicons.dev/icons?i=react" style="margin: 6px;" /></a>
-  <a href="https://www.python.org/doc/"><img src="https://skillicons.dev/icons?i=py" style="margin: 6px;" /></a>
-  <a href="https://www.php.net/docs.php"><img src="https://skillicons.dev/icons?i=php" style="margin: 6px;" /></a>
-  <a href="https://www.latex-project.org/help/documentation/"><img src="https://skillicons.dev/icons?i=latex" style="margin: 6px;" /></a>
-  <a href="https://www.postgresql.org/docs/"><img src="https://skillicons.dev/icons?i=postgres" style="margin: 6px;" /></a>
-  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" style="margin: 6px;" /></a>
-  <a href="https://git-scm.com/doc"><img src="https://skillicons.dev/icons?i=git" style="margin: 6px;" /></a>
-  <a href="https://docs.github.com/"><img src="https://skillicons.dev/icons?i=github" style="margin: 6px;" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" style="margin: 6px;" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" style="margin: 6px;" />
+  </a>
+  <a href="https://getbootstrap.com/docs/">
+    <img src="https://skillicons.dev/icons?i=bootstrap" style="margin: 6px;" />
+  </a>
+  <a href="https://tailwindcss.com/docs">
+    <img src="https://skillicons.dev/icons?i=tailwind" style="margin: 6px;" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" style="margin: 6px;" />
+  </a>
+  <a href="https://reactjs.org/docs/getting-started.html">
+    <img src="https://skillicons.dev/icons?i=react" style="margin: 6px;" />
+  </a>
+  <a href="https://nextjs.org/docs">
+    <img src="https://skillicons.dev/icons?i=nextjs" style="margin: 6px;" />
+  </a>
+  <a href="https://www.python.org/doc/">
+    <img src="https://skillicons.dev/icons?i=py" style="margin: 6px;" />
+  </a>
+  <a href="https://www.php.net/docs.php">
+    <img src="https://skillicons.dev/icons?i=php" style="margin: 6px;" />
+  </a>
+  <a href="https://www.latex-project.org/help/documentation/">
+    <img src="https://skillicons.dev/icons?i=latex" style="margin: 6px;" />
+  </a>
+  <a href="https://www.postgresql.org/docs/">
+    <img src="https://skillicons.dev/icons?i=postgres" style="margin: 6px;" />
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://skillicons.dev/icons?i=vscode" style="margin: 6px;" />
+  </a>
+  <a href="https://git-scm.com/doc">
+    <img src="https://skillicons.dev/icons?i=git" style="margin: 6px;" />
+  </a>
+  <a href="https://docs.github.com/">
+    <img src="https://skillicons.dev/icons?i=github" style="margin: 6px;" />
+  </a>
 </p>
-
 
 ###### 🎨 Design & Media Editing
 <p align="center">
@@ -50,9 +78,6 @@ Saya memiliki pengalaman dalam pemrograman web, khususnya di bidang WebGIS, sert
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rezachairul/rezachairul/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rezachairul/rezachairul/output/pacman-contribution-graph.svg">
 </picture>
-
-<!-- <img src="https://raw.githubusercontent.com/rezachairul/rezachairul/output/snake.svg" alt="Snake animation" /> -->
-
 
 ---
 
