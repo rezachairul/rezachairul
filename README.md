@@ -81,25 +81,6 @@ Saya memiliki pengalaman dalam pemrograman web, khususnya di bidang WebGIS, sert
 
 ---
 
-##### 📊 My GitHub Stats
-
-<table border="0">
-  <tr>
-    <td>
-      <a href="https://github.com/rezachairul">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=rezachairul&show_icons=true&theme=github_dark" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/rezachairul">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezachairul&layout=compact&theme=github_dark" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
 ##### 🎵 Now Playing on Spotify
 Lagi dengerin musik sambil ngoding 🎧
 🎶 Favorite Song Right Now:
