@@ -23,21 +23,21 @@ Saya memiliki pengalaman dalam pemrograman web, khususnya di bidang WebGIS, sert
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://skillicons.dev/icons?i=css" style="margin: 6px;" />
   </a>
-  <a href="https://getbootstrap.com/docs/">
+  <!-- <a href="https://getbootstrap.com/docs/">
     <img src="https://skillicons.dev/icons?i=bootstrap" style="margin: 6px;" />
-  </a>
+  </a> -->
   <a href="https://tailwindcss.com/docs">
     <img src="https://skillicons.dev/icons?i=tailwind" style="margin: 6px;" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://skillicons.dev/icons?i=js" style="margin: 6px;" />
   </a>
-  <a href="https://reactjs.org/docs/getting-started.html">
+  <!-- <a href="https://reactjs.org/docs/getting-started.html">
     <img src="https://skillicons.dev/icons?i=react" style="margin: 6px;" />
-  </a>
-  <a href="https://nextjs.org/docs">
+  </a> -->
+  <!-- <a href="https://nextjs.org/docs">
     <img src="https://skillicons.dev/icons?i=nextjs" style="margin: 6px;" />
-  </a>
+  </a> -->
   <a href="https://www.python.org/doc/">
     <img src="https://skillicons.dev/icons?i=py" style="margin: 6px;" />
   </a>
@@ -53,9 +53,9 @@ Saya memiliki pengalaman dalam pemrograman web, khususnya di bidang WebGIS, sert
   <a href="https://code.visualstudio.com/">
     <img src="https://skillicons.dev/icons?i=vscode" style="margin: 6px;" />
   </a>
-  <a href="https://git-scm.com/doc">
+  <!-- <a href="https://git-scm.com/doc">
     <img src="https://skillicons.dev/icons?i=git" style="margin: 6px;" />
-  </a>
+  </a> -->
   <a href="https://docs.github.com/">
     <img src="https://skillicons.dev/icons?i=github" style="margin: 6px;" />
   </a>
