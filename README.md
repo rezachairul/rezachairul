@@ -2,12 +2,12 @@
 ### Hello, I'am Reza Chairul 👋
 
 ##### About Me
-🎓 Mahasiswa Teknik Informatika di [ITERA](https://www.itera.ac.id)
-📍 Tinggal di Lampung, Indonesia
-💻 Fokus: WebGIS, Laravel, React, PostgreSQL, Tailwind CSS
-🗺️ Saat ini sedang eksplorasi visualisasi dan manajemen data geospasial
-🎨 Hobi: Desain grafis, fotografi dan editing
-🚀 Suka memecahkan masalah & membangun solusi interaktif
+Full-Stack Developer dengan spesialisasi WebGIS, berpengalaman membangun sistem informasi berbasis
+web dan aplikasi geospasial menggunakan Laravel, React.js, Next.js, PostgreSQL/PostGIS, dan Leaflet.js.
+Terampil merancang sistem end-to-end – dari arsitektur basis data hingga visualisasi data spasial interaktif
+– untuk mendukung pengambilan keputusan operasional. Kombinasi keahlian pengembangan web
+modern dan sistem informasi geospasial menjadikan saya mampu menangani proyek teknis dengan
+kompleksitas domain tinggi.
 
 > Mari terhubung dan bangun sesuatu yang luar biasa bersama!
 ---
