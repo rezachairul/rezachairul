@@ -1,4 +1,4 @@
-![Reza Chairul](img/bg-header-reza.png)
+
 ### Hello, I'am Reza Chairul 👋
 
 ##### About Me
